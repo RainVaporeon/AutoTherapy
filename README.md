@@ -27,6 +27,10 @@ More phrases are always welcome! Just open a PR and we'll get back to you in an 
 # Issues
 what issues
 
+# Motivation
+![image](https://github.com/user-attachments/assets/19bb977f-4e78-401a-95ea-118ff95b3117)
+
+
 # This didn't help me!
 It didn't help me either!
 
