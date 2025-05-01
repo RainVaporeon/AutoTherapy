@@ -17,8 +17,10 @@ while True:
         if last_repeat != "crazy":
             repeat_count = 0
         print(f"<< That's crazy{dots}")
+        last_repeat = "crazy"
     else:
         if last_repeat != "damn":
             repeat_count = 0
         print(f"<< damn{dots}")
+        last_repeat = "damn"
     repeat_count = repeat_count + 1
